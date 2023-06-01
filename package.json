@@ -1,0 +1,29 @@
+{
+  "author": "ajseven",
+  "license": "MIT",
+  "email": "abduljaberaj00786@gmail.com",
+  "name": "test-aj7",
+  "version": "1.0.0",
+  "description": "simple test",
+  "main": "app.js",
+  "type": "module",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/Aj-Seven/node-aj7"
+  },
+  "scripts": {
+    "test": "node app.js"
+  },
+  "bin": {
+    "aj7": "./app.js"
+  },
+  "keywords": [
+    "test",
+    "dev",
+    "app"
+  ],
+  "preferGlobal": true,
+  "dependencies": {
+    "chalk": "^5.2.0"
+  }
+}
