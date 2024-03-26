@@ -10,7 +10,7 @@ apt-get install nodejs npm
 ## Install the pkg by Global
 
 ``` sh
-npm -g install
+npm -g install node-aj7
 ```
 ## To test the pkg
 
